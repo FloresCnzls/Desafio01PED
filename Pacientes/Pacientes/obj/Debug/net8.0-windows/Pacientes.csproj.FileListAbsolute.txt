@@ -1,0 +1,17 @@
+C:\Users\FloresC\source\repos\Pacientes\Pacientes\bin\Debug\net8.0-windows\Pacientes.exe
+C:\Users\FloresC\source\repos\Pacientes\Pacientes\bin\Debug\net8.0-windows\Pacientes.deps.json
+C:\Users\FloresC\source\repos\Pacientes\Pacientes\bin\Debug\net8.0-windows\Pacientes.runtimeconfig.json
+C:\Users\FloresC\source\repos\Pacientes\Pacientes\bin\Debug\net8.0-windows\Pacientes.dll
+C:\Users\FloresC\source\repos\Pacientes\Pacientes\bin\Debug\net8.0-windows\Pacientes.pdb
+C:\Users\FloresC\source\repos\Pacientes\Pacientes\obj\Debug\net8.0-windows\Pacientes.Form1.resources
+C:\Users\FloresC\source\repos\Pacientes\Pacientes\obj\Debug\net8.0-windows\Pacientes.csproj.GenerateResource.cache
+C:\Users\FloresC\source\repos\Pacientes\Pacientes\obj\Debug\net8.0-windows\Pacientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FloresC\source\repos\Pacientes\Pacientes\obj\Debug\net8.0-windows\Pacientes.AssemblyInfoInputs.cache
+C:\Users\FloresC\source\repos\Pacientes\Pacientes\obj\Debug\net8.0-windows\Pacientes.AssemblyInfo.cs
+C:\Users\FloresC\source\repos\Pacientes\Pacientes\obj\Debug\net8.0-windows\Pacientes.csproj.CoreCompileInputs.cache
+C:\Users\FloresC\source\repos\Pacientes\Pacientes\obj\Debug\net8.0-windows\Pacientes.dll
+C:\Users\FloresC\source\repos\Pacientes\Pacientes\obj\Debug\net8.0-windows\refint\Pacientes.dll
+C:\Users\FloresC\source\repos\Pacientes\Pacientes\obj\Debug\net8.0-windows\Pacientes.pdb
+C:\Users\FloresC\source\repos\Pacientes\Pacientes\obj\Debug\net8.0-windows\Pacientes.genruntimeconfig.cache
+C:\Users\FloresC\source\repos\Pacientes\Pacientes\obj\Debug\net8.0-windows\ref\Pacientes.dll
+C:\Users\FloresC\source\repos\Pacientes\Pacientes\obj\Debug\net8.0-windows\Pacientes.Form2.resources
